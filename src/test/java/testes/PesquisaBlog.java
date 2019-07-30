@@ -38,10 +38,10 @@ public class PesquisaBlog {
         pesquisa.sendKeys("teste");
         pesquisa.submit();
 
-        //Validar que dentro do elemento com class "pagetitle search" está o texto "teste"
-        WebElement res = navegador.findElement(By.xpath("//*[@id='blog']/div/div[1]/div/h2/span"));
+        //Validar que dentro do elemento com class "pagetitle search" está o texto "RESULTADO DA SUA BUSCA NO BLOG: TESTE"
+        WebElement res = navegador.findElement(By.xpath("//h2[@class='pagetitle search']"));
         String textores = res.getText();
-        assertEquals("TESTE",textores);
+        assertEquals("RESULTADO DA SUA BUSCA NO BLOG: TESTE",textores);
    }
 
     @Test
@@ -56,7 +56,7 @@ public class PesquisaBlog {
         pesquisa.submit();
 
         //Validar que dentro do elemento está o texto "sasfsfdgf"
-        WebElement res = navegador.findElement(By.xpath("//*[@id=\"blog\"]/div/div[2]/div/div/div/p"));
+        WebElement res = navegador.findElement(By.xpath("//div[@class='col-md-9']/p"));
         String textoresult = res.getText();
         assertEquals("Nenhum post encontrado. Tente uma busca diferente",textoresult);
     }

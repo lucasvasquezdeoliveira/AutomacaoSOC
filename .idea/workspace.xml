@@ -4,7 +4,6 @@
     <list default="true" id="5c414524-6458-4494-974f-97c731f7a78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testes/InformacoesUsuarioTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlog.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+            <state relative-caret-position="417">
+              <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PesquisaBlog.testPesquisaBlogLimpar">
+  <component name="RunManager" selected="JUnit.PesquisaBlog.testPesquisaBlogfalha">
     <configuration name="InformacoesUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebdriverJava" />
       <extension name="coverage">
@@ -204,7 +203,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPesquisaBlog.testPesquisaBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PesquisaBlog.testPesquisaBlogfalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebdriverJava" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +212,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.TestPesquisaBlog" />
-      <option name="METHOD_NAME" value="testPesquisaBlog" />
+      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlog" />
+      <option name="METHOD_NAME" value="testPesquisaBlogfalha" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogfalha" />
+        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlog" />
         <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogLimpar" />
         <item itemvalue="JUnit.PesquisaBlog" />
-        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlog" />
         <item itemvalue="JUnit.InformacoesUsuarioTest" />
-        <item itemvalue="JUnit.TestPesquisaBlog.testPesquisaBlog" />
       </list>
     </recent_temporary>
   </component>
@@ -244,21 +243,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InformacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.07.30 at 08h 11m 39s.xml">
-      <configuration name="InformacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InformacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.07.30 at 09h 58m 53s.xml">
-      <configuration name="InformacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InformacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.07.30 at 10h 01m 39s.xml">
-      <configuration name="InformacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InformacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.07.30 at 10h 01m 56s.xml">
-      <configuration name="InformacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InformacoesUsuarioTest - 2019.07.30 at 10h 07m 51s.xml">
-      <configuration name="InformacoesUsuarioTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 10h 10m 50s.xml">
       <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
     </history-entry>
@@ -273,6 +257,21 @@
     </history-entry>
     <history-entry file="PesquisaBlog_testPesquisaBlogLimpar - 2019.07.30 at 10h 53m 52s.xml">
       <configuration name="PesquisaBlog.testPesquisaBlogLimpar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 13m 21s.xml">
+      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 16m 30s.xml">
+      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 17m 45s.xml">
+      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog_testPesquisaBlogfalha - 2019.07.30 at 14h 21m 53s.xml">
+      <configuration name="PesquisaBlog.testPesquisaBlogfalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog_testPesquisaBlogfalha - 2019.07.30 at 14h 25m 20s.xml">
+      <configuration name="PesquisaBlog.testPesquisaBlogfalha" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -350,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        <state relative-caret-position="417">
+          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
