@@ -34,7 +34,7 @@ public class PesquisaBlog {
         //Identificando o formulário de Pesquisa
         WebElement pesquisa = navegador.findElement(By.xpath("//input[@placeholder='Buscar']"));
 
-        //Digitar no campo com name "s" que está dentro do formulário de id "blog" o texto "teste"
+        //Digitar no campo o texto "teste"
         pesquisa.sendKeys("teste");
         pesquisa.submit();
 
@@ -55,7 +55,7 @@ public class PesquisaBlog {
         pesquisa.sendKeys("sasfsfdgf");
         pesquisa.submit();
 
-        //Validar que dentro do elemento está o texto "sasfsfdgf"
+        //Validar que dentro do elemento está o texto "Nenhum post encontrado. Tente uma busca diferente"
         WebElement res = navegador.findElement(By.xpath("//div[@class='col-md-9']/p"));
         String textoresult = res.getText();
         assertEquals("Nenhum post encontrado. Tente uma busca diferente",textoresult);
@@ -71,7 +71,7 @@ public class PesquisaBlog {
         pesquisa.sendKeys("Lucas");
 
         //Encontrar Elemento Limpar
-        WebElement limpar = navegador.findElement(By.xpath("//*[@id='blog']/div/div[1]/div/form/a"));
+        WebElement limpar = navegador.findElement(By.xpath("//a[@class='limpar-busca']"));
 
         //Clicar em Limpar
         limpar.click();

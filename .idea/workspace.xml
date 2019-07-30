@@ -4,7 +4,6 @@
     <list default="true" id="5c414524-6458-4494-974f-97c731f7a78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlog.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+            <state relative-caret-position="332">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PesquisaBlog.testPesquisaBlogfalha">
+  <component name="RunManager" selected="JUnit.PesquisaBlog">
     <configuration name="InformacoesUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebdriverJava" />
       <extension name="coverage">
@@ -221,10 +220,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PesquisaBlog" />
         <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogfalha" />
         <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlog" />
         <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogLimpar" />
-        <item itemvalue="JUnit.PesquisaBlog" />
         <item itemvalue="JUnit.InformacoesUsuarioTest" />
       </list>
     </recent_temporary>
@@ -243,9 +242,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 10h 10m 50s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PesquisaBlog - 2019.07.30 at 10h 35m 40s.xml">
       <configuration name="PesquisaBlog" configurationId="JUnit" />
     </history-entry>
@@ -272,6 +268,9 @@
     </history-entry>
     <history-entry file="PesquisaBlog_testPesquisaBlogfalha - 2019.07.30 at 14h 25m 20s.xml">
       <configuration name="PesquisaBlog.testPesquisaBlogfalha" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlog - 2019.07.30 at 14h 28m 17s.xml">
+      <configuration name="PesquisaBlog" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -349,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="332">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
