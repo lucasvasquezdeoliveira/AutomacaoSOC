@@ -35,7 +35,7 @@ public class PesquisaBlog {
         assertEquals("TESTE",textores);
 
         // Fechar o Navegador
-        navegador.close();
+        navegador.close()
 
 
     }
