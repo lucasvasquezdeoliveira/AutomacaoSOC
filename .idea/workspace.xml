@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c414524-6458-4494-974f-97c731f7a78e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Suporte/Web.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BuscaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BuscaFalhaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LimparPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ResultadoFalhaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ResultadoLimpaPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ResultadoPesquisaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/ResultadoPesquisaPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +20,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -35,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+            <state relative-caret-position="329">
+              <caret line="39" column="59" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="28" selection-start-line="28" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="360">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
@@ -61,10 +67,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LimparPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoLimpaPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/BuscaPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state>
+              <caret selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
@@ -74,11 +106,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/BuscaFalhaPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoFalhaPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +148,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Suporte/Web.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,10 +176,16 @@
         <option value="$PROJECT_DIR$/src/test/java/testes/InformacoesUsuarioTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Suporte/Web.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/BuscaPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoLimpar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/BuscaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LimparPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoLimparPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoLimpaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/BuscaFalhaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoFalhaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" />
       </list>
     </option>
   </component>
@@ -223,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBlog">
+  <component name="RunManager" selected="JUnit.PesquisaBlogPageObjectsTest">
     <configuration name="PesquisaBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebdriverJava" />
       <extension name="coverage">
@@ -234,6 +298,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="testes" />
       <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlog" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PesquisaBlogPageObjectsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebdriverJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlogPageObjectsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,7 +334,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PesquisaBlog.testPesquisaBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlogfalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebdriverJava" />
       <extension name="coverage">
         <pattern>
@@ -264,40 +343,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlog" />
-      <option name="METHOD_NAME" value="testPesquisaBlog" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PesquisaBlog.testPesquisaBlogLimpar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WebdriverJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlog" />
-      <option name="METHOD_NAME" value="testPesquisaBlogLimpar" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PesquisaBlog.testPesquisaBlogfalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WebdriverJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlog" />
+      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlogPageObjectsTest" />
       <option name="METHOD_NAME" value="testPesquisaBlogfalha" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBloglimpar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebdriverJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.PesquisaBlogPageObjectsTest" />
+      <option name="METHOD_NAME" value="testPesquisaBloglimpar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -305,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PesquisaBlogPageObjectsTest" />
+        <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBlogfalha" />
+        <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBloglimpar" />
         <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBlog" />
         <item itemvalue="JUnit.PesquisaBlog" />
-        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogLimpar" />
-        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlogfalha" />
-        <item itemvalue="JUnit.PesquisaBlog.testPesquisaBlog" />
       </list>
     </recent_temporary>
   </component>
@@ -327,27 +390,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PesquisaBlog - 2019.07.30 at 10h 52m 38s.xml">
-      <configuration name="PesquisaBlog" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlogLimpar - 2019.07.30 at 10h 53m 52s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlogLimpar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 13m 21s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 16m 30s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlog - 2019.07.30 at 14h 17m 45s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlog" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlogfalha - 2019.07.30 at 14h 21m 53s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlogfalha" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlog_testPesquisaBlogfalha - 2019.07.30 at 14h 25m 20s.xml">
-      <configuration name="PesquisaBlog.testPesquisaBlogfalha" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PesquisaBlog - 2019.07.30 at 14h 28m 17s.xml">
       <configuration name="PesquisaBlog" configurationId="JUnit" />
     </history-entry>
@@ -356,6 +398,27 @@
     </history-entry>
     <history-entry file="PesquisaBlog - 2019.07.30 at 14h 42m 41s.xml">
       <configuration name="PesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBlog - 2019.07.31 at 11h 51m 11s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBlog - 2019.07.31 at 14h 02m 00s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBloglimpar - 2019.07.31 at 14h 03m 23s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBloglimpar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBlog - 2019.07.31 at 14h 04m 23s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBloglimpar - 2019.07.31 at 14h 04m 52s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBloglimpar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.07.31 at 14h 05m 33s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBlogfalha - 2019.07.31 at 14h 18m 09s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlogfalha" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -380,7 +443,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,7 +451,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008091" side_tool="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -415,16 +478,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testes/InformacoesUsuarioTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Suporte/Web.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -432,34 +485,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Suporte/Web.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoLimpar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="28" selection-start-line="28" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoLimparPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="39" column="59" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoLimpaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LimparPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/BuscaPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state>
+          <caret selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
@@ -468,12 +569,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoPesquisaPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/BuscaFalhaPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ResultadoFalhaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
           </folding>
         </state>
       </provider>
