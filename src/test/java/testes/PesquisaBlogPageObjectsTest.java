@@ -62,4 +62,5 @@ public class PesquisaBlogPageObjectsTest {
     public void tearDown() {
             navegador.close();
         }
-}
+
+  }
