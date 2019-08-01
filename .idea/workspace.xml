@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c414524-6458-4494-974f-97c731f7a78e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/WebdriverJava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Suporte/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Suporte/Web.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BuscaFalhaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BuscaFalhaPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BuscaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BuscaPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LimparPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LimparPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ResultadoFalhaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/ResultadoFalhaPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ResultadoLimpaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/ResultadoLimpaPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ResultadoPesquisaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/ResultadoPesquisaPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -41,12 +29,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="448">
+              <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#385#386#0" expanded="true" />
                 <element signature="e#431#432#0" expanded="true" />
               </folding>
@@ -230,6 +219,14 @@
             <path>
               <item name="WebdriverJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebdriverJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebdriverJava" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -405,12 +402,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PesquisaBlogPageObjectsTest_testPesquisaBlogfalha - 2019.07.31 at 14h 18m 09s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest.testPesquisaBlogfalha" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.07.31 at 14h 19m 14s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PesquisaBlogPageObjectsTest - 2019.07.31 at 14h 44m 03s.xml">
       <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
     </history-entry>
@@ -435,6 +426,12 @@
     <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 10h 10m 47s.xml">
       <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 10h 58m 04s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 11h 04m 06s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +446,7 @@
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28478965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28478965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +455,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,21 +570,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -15,6 +15,7 @@ import pages.LimparPage;
 
 import static org.junit.Assert.assertEquals;
 
+
 @Epic("Pesquisa")
 @Feature("Pesquisa")
 public class PesquisaBlogPageObjectsTest {
@@ -46,7 +47,7 @@ public class PesquisaBlogPageObjectsTest {
     }
     @Test
     @Story("Usuário tenta Limpar pesquisar Lucas")
-    @Description("Limpar Busca")
+    @Description("Limpar Pesquisa")
 
     public void testPesquisaBloglimpar () {
         String resultpesquisa = new LimparPage(navegador)
