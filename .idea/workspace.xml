@@ -4,8 +4,6 @@
     <list default="true" id="5c414524-6458-4494-974f-97c731f7a78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testes/PesquisaBlogPageObjectsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="2176">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -36,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="431">
-              <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1691#1692#0" expanded="true" />
@@ -158,8 +156,8 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoLimpaPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/BuscaFalhaPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ResultadoFalhaPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -194,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,12 +249,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -382,11 +380,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PesquisaBlog" />
       <item itemvalue="JUnit.PesquisaBlogPageObjectsTest" />
       <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBlog" />
       <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBlogfalha" />
       <item itemvalue="JUnit.PesquisaBlogPageObjectsTest.testPesquisaBloglimpar" />
+      <item itemvalue="JUnit.PesquisaBlog" />
       <item itemvalue="Maven.junit5-allure-report [clean,test]" />
     </list>
     <recent_temporary>
@@ -413,34 +411,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 09h 17m 41s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 09h 50m 03s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 09h 55m 57s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 10h 00m 28s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 10h 10m 47s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 10h 58m 04s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 11h 04m 06s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 11h 14m 58s.xml">
-      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 11h 25m 45s.xml">
       <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 11h 44m 47s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 12h 01m 36s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 07m 25s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 15m 03s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 24m 47s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 31m 12s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 36m 54s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 14h 59m 08s.xml">
+      <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PesquisaBlogPageObjectsTest - 2019.08.01 at 15h 34m 28s.xml">
       <configuration name="PesquisaBlogPageObjectsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -457,7 +455,7 @@
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.289644" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3090615" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,6 +506,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -581,17 +586,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testes/PesquisaBlogPageObjectsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
-          <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1691#1692#0" expanded="true" />
