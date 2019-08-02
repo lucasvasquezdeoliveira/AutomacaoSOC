@@ -1,0 +1,19 @@
+    Plano de Teste Busca
+
+
+    1-  Teste do Campo Busca com pesquisa válida
+
+    2 - Teste Campo Busca com pesquisa Inválida
+
+    3 - Teste Campo Busca com pesquisa com caracter especial
+
+    4 - Teste Campo Busca com pesquisa com mais de uma palavra
+
+    5 - Teste Cammpo Busca com pesquisa com tipos de categoria
+
+    6 - Teste Botão Limpar após digitação
+
+    7 - Teste Botão Limpar antes da digitação
+
+    8 - Teste Botão Limpar após pesquisa efetuada
+s
