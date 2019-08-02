@@ -1,0 +1,8 @@
+pages\ResultadoLimpaPage.class
+pages\ResultadoPesquisaPage.class
+pages\BuscaPage.class
+pages\BuscaFalhaPage.class
+pages\LimparPage.class
+Suporte\Web.class
+testes\PesquisaBlogPageObjectsTest.class
+pages\ResultadoFalhaPage.class
